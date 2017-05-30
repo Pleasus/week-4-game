@@ -1,0 +1,138 @@
+body {
+    background-image: url("../images/asanoha.png");
+}
+
+#wrapper {
+	width: 700px;
+	/*border: 1px solid grey;*/
+	margin: 20px auto;
+}
+
+h1 {
+	font-family: 'Barrio', cursive;
+	font-size: 46px;
+	text-align: center;
+	padding: 25px 0px 20px 0px;
+	margin: 0 20px;
+	border-bottom: 1px solid grey;
+	border-top: 1px solid grey;
+}
+
+#instBlock {
+	font-family: "arial", sans-serif;
+	margin: 10px 20px;
+	background-color: rgba(153, 153, 102, .5);
+	padding: 20px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 22px;
+	margin-bottom: 15px;
+}
+
+p {
+	line-height: 1.5;
+}
+
+#imageBlock {
+	margin: 0 20px 10px 20px;
+}
+
+#grey {
+	width: 162px;
+}
+
+#white {
+	width: 162px;
+}
+#yellow {
+	width: 162px;
+}
+
+#purple {
+	width: 162px;
+}
+
+#dataBoxes {
+	margin: 0px 20px;
+}
+
+h3 {
+	font-family: "arial", sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px 4px black; 
+}
+
+#box1 {
+	width: 162px;
+	height: 140px;
+	background-color: rgba(102, 51, 0, .5);
+	margin-right: 4px;
+	margin-bottom: 10px;
+	padding-top: 30px;
+	float: left;
+}
+
+#box2 {
+	width: 162px;
+	height: 140px;
+	background-color: rgba(153, 102, 0, .5);
+	margin-right: 4px;
+	padding-top: 30px;
+	float: left;
+}
+
+#box3 {
+	width: 162px;
+	height: 140px;
+	background-color: rgba(204, 51, 0, .5);
+	margin-right: 4px;
+	padding-top: 30px;
+	float: left;
+}
+
+#box4 {
+	width: 162px;
+	height: 140px;
+	background-color: rgba(153, 51, 0, .5);
+	padding-top: 30px;
+	float: left;
+}
+
+#goal {
+	font-family: "arial", sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#guess {
+	font-family: "arial", sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#wins {
+	font-family: "arial", sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#losses {
+	font-family: "arial", sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#empty {
+	clear: both;
+	margin: 20px;
+	border-bottom: 1px solid grey;
+}
